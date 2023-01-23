@@ -1,0 +1,7 @@
+isort
+counterfit
+dnspython==2.2.1
+counterfit-shims-grove
+counterfit-shims-serial
+counterfit-shims-picamera
+
